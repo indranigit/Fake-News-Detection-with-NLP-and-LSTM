@@ -9,7 +9,8 @@ Sometimes these stories may be propaganda that is intentionally designed to misl
 In recent years, fake news stories have proliferated via social media, in part because they are so easily and quickly shared online.
 
 
-About Dataset
+About Dataset:
+
 This data set consists of 40000 fake and real news. Our goal is to train our model to accurately predict whether a particular piece of news is real or fake. 
 Fake and real news data are given in two separate data sets, with each data set consisting of approximately 20000 articles.
  
